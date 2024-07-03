@@ -1,6 +1,6 @@
 **Project Name**- 🏍️ Bike Sharing Demand Prediction 📈
 
-**Project Type** - Regression4
+**Project Type** - Regression
 
 **Contribution** - Individual
 
